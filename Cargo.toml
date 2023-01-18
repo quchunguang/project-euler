@@ -1,0 +1,12 @@
+[package]
+name = "project-euler"
+description = "solve project-euler questions"
+version = "0.1.2"
+edition = "2021"
+authors = ["quchunguang <quchunguang@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
